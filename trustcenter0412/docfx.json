@@ -32,7 +32,7 @@
     "globalMetadata": {},
     "fileMetadata": {},
     "template": [
-      "docs.html"
+      "op.html"
     ],
     "dest": "trustcenter0412"
   }
