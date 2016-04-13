@@ -6,7 +6,7 @@
       "docset_name": "trustcenter0412",
       "build_source_folder": null,
       "build_output_subfolder": "trustcenter0412",
-      "build_entry_point": "op.ps1",
+      "build_entry_point": "docs.ps1",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,

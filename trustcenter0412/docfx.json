@@ -21,7 +21,8 @@
         "exclude": [
           "**/obj/**",
           "**/*.md",
-          "trustcenter0412/**"
+          "trustcenter0412/**",
+          "_themes/DocPacker/**"
         ],
         "src": null,
         "dest": null
