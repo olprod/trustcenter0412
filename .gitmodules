@@ -1,0 +1,4 @@
+[submodule "themes for trustcenter0412"]
+	path = trustcenter0412/_themes
+	url = https://github.com/Microsoft/templates.docs.msft
+	branch = master
