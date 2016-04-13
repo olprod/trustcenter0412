@@ -1,3 +1,2 @@
-# Welcome
-## [Welcome to trust center portal](welcome.md)
+# [Welcome to trust center portal](welcome.md)
 
